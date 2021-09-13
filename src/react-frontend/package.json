@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "private": true,
   "dependencies": {
+    "@aws-amplify/xr": "^3.0.15", 
     "@aws-amplify/cache": "^4.0.17", 
     "@aws-amplify/interactions": "^4.0.15", 
     "@aws-amplify/api": "^3.3.3",
