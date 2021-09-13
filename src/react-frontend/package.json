@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "private": true,
   "dependencies": {
-    "@aws-amplify/cache": "^3.3.3", 
+    "@aws-amplify/cache": "^4.0.17", 
     "@aws-amplify/api": "^3.3.3",
     "@aws-amplify/storage": "^3.4.4",
     "@aws-amplify/ui-react": "^1.2.10",
